@@ -1,2 +1,2 @@
 # mininJS
-Hello my frends!!!
+Hello my friends!!!
